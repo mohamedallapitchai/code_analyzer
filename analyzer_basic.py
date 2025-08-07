@@ -7,7 +7,6 @@ from langchain_core.output_parsers import StrOutputParser
 from langchain_core.prompts import ChatPromptTemplate
 from langchain_openai import ChatOpenAI
 
-# Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     load_dotenv()
     access_token = os.getenv("ACCESS_TOKEN")
