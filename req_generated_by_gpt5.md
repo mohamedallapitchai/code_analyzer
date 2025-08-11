@@ -1,4 +1,4 @@
-# Bounding Box Analyzer — Requirements (Markdown)
+# Bounding Box Analyzer — Requirements 
 
 ## Title
 Bounding Box Analyzer — Requirements and Examples
